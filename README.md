@@ -1,0 +1,2 @@
+# Summarizer
+The "summarizer" based off of Googles' BERT (Bidirectional Encoder Representations from Transformers) has been open sourced by the schools' AI program. HURU School AI algorithm release; signals the first time an African led team has produced a usable and efficient algorithm that can revolutionalise many Natural Language Processing Industry problems in law, education, policy and information processing. 
